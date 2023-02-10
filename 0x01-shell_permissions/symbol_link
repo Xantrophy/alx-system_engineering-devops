@@ -1,0 +1,3 @@
+#!/bin/bash
+./4-empty
+ls -s hello
