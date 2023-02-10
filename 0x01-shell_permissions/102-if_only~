@@ -1,2 +1,0 @@
-#!/bin/bash
-chown --from=CURRENT_OWNER:CURRENT_GROUP betty hello
