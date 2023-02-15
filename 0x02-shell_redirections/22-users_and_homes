@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo du -smc /root/* | sort -n
+cut -d: -f6 /etc/passwd
